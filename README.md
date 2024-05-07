@@ -8,7 +8,7 @@ After coding with unity for 1.5 years i can say for certain that this is the way
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My Website](http://justinherrmann34.wixsite.com/justinherrmann)
-* ✉️  You can contact me at [justinherrmannwork@gmail.con](mailto:justinherrmannwork@gmail.con)
+* ✉️  You can contact me at [justinherrmannwork@gmail.con](mailto:justinherrmannwork@gmail.com)
 * 🚀  I'm currently working on [A Lighthouse story](http://github.com/JustinH1506/A-Lighthouse-Story-)
 * 🧠  I'm learning Unity, C#, Unreal
 * 🤝  I'm open to collaborating on creating games
