@@ -7,10 +7,10 @@ Unity Backend Programmer
 After coding with unity for 2 years i can say for certain that this is the way to got for me.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [My Website](http://justinherrmann34.wixsite.com/justinherrmann)
-* ✉️  You can contact me at [justinherrmannwork@gmail.con](mailto:justinherrmannwork@gmail.com)
+* 🖥️  See my portfolio at [Wix](http://justinherrmann34.wixsite.com/justinherrmann)
+* ✉️  You can contact me at [justinherrmannwork@gmail.com](mailto:justinherrmannwork@gmail.com)
 * 🚀  I'm currently working on [A Lighthouse story](http://github.com/JustinH1506/A-Lighthouse-Story-)
-* 🧠  I'm learning Unity, C#, Unreal
+* 🧠  I'm learning Unity, C#
 * 🤝  I'm open to collaborating on creating games
 
 ### Skills
