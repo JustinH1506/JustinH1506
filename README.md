@@ -20,6 +20,8 @@ After coding with unity for 2.5 years i can say for certain that this is the way
 <img align="left" alt="VidualStudio" width="30px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </p>
 
+<br />
+
 
 ### Socials
 
