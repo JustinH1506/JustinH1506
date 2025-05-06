@@ -36,12 +36,3 @@ After coding with unity for 2.5 years i can say for certain that this is the way
 <a href="http://www.github.com/JustinH1506"><img src="https://github-readme-stats.vercel.app/api?username=JustinH1506&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="JustinH1506's GitHub stats" /></a>
 
 <a href="http://www.github.com/JustinH1506"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinH1506&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<p align="center"
-
-Projekt Pictures
-
-<img src="https://drive.google.com/drive/search?q=Py" /></a>
-
-</p>
