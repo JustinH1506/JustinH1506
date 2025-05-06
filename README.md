@@ -40,6 +40,6 @@ After coding with unity for 2.5 years i can say for certain that this is the way
 
 <p align="left"
 
-### Some pictures of my projects:
-# ===
+# Some pictures of my projects:
+
 </p>
