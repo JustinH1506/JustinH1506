@@ -1,4 +1,4 @@
-Hi 👋 My name is Justin Herrmann
+Hi My name is Justin Herrmann
 ================================
 
 Unity Backend Programmer
