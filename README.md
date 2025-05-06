@@ -10,7 +10,6 @@ After coding with unity for 2.5 years i can say for certain that this is the way
 * 🖥️  See my portfolio at [Wix](http://justinherrmann34.wixsite.com/justinherrmann)
 * ✉️  You can contact me at [justinherrmannwork@gmail.com](mailto:justinherrmannwork@gmail.com)
 * 🧠  I'm learning Unity, C#
-* 🤝  I'm open to collaborating on creating games
 
 ### Skills
 
