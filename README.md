@@ -1,7 +1,7 @@
 Hi my name is Justin Herrmann
 ================================
 
-Unity Backend Programmer
+Unity Programmer
 ------------------------
 
 After coding with unity for over 2 years i can say for certain that this is the way to got for me.
