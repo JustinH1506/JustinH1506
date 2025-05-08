@@ -29,11 +29,10 @@ After coding with unity for over 2 years i can say for certain that this is the 
 
 <p align="left"> <a href="https://www.github.com/JustinH1506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/justin-herrmann-5b33402b0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="center">
-Here are some pictures of my Projects
-</p>
+Here are some pictures of my Projects:
 
 <br>
 
 <p align="center">
   <img src="https://github.com/JustinH1506/JustinH1506/blob/main/A_Lighthouse_Story_Screenshot2.png" /></a>
+  <img src="https://github.com/JustinH1506/JustinH1506/blob/main/Screenshot3_LuminaryMiyo_Owlyco.jpg" /></a>
