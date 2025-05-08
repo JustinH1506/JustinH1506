@@ -4,7 +4,7 @@ Hi my name is Justin Herrmann
 Unity Backend Programmer
 ------------------------
 
-After coding with unity for 2.5 years i can say for certain that this is the way to got for me.
+After coding with unity for over 2 years i can say for certain that this is the way to got for me.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Wix](http://justinherrmann34.wixsite.com/justinherrmann)
